@@ -1,0 +1,1 @@
+# BDFireZone ProGuard rules
